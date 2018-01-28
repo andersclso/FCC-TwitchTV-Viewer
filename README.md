@@ -12,7 +12,7 @@ categories:
 tags:
   - javascript
 ---
-# Freecodecamp Advanced Front End Development Project
+# Freecodecamp Intermediate Front End Development Project
 Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/Myvqmo/.
 
 ## Project Criteria:
